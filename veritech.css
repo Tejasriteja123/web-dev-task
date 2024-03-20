@@ -1,0 +1,30 @@
+p{
+    text-align: center;
+}
+table{
+    background: #1bbf1b;
+    margin-right: 200;
+    padding-left: 500px;
+    padding-right: 500px;
+}
+.side {
+    padding-left: 370px;
+}
+img {
+    padding-left: 50px;
+}
+.side1{
+    padding-left: 280px;
+}
+.side2 {
+    padding-left: 180px;
+}
+.side3{
+    padding-left: 280px;
+}
+.side4{
+    padding-left: 180px;
+}
+.side5{
+    padding-left: 280px;
+}
